@@ -1,0 +1,32 @@
+.footer {
+  height: 70px;
+  margin: 0;
+  
+}
+
+.menu {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  border: 3px solid #547a82;
+  border-top: none;
+  border-radius: 0 0 15px 15px;
+}
+
+.menu p {
+  margin-top: 20px;
+  padding: 0 20px;
+  font-weight: bold;
+  height: 30px;
+  width: 150px;
+  font-size: 20px;
+  color: #547a82;
+}
+
+.box-footer {
+  margin-top: 13px;
+  margin-right: 20px;
+  position: relative;
+  margin-left: auto;
+}
+

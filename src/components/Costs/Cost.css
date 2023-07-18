@@ -1,0 +1,15 @@
+.wrapper1 {
+  width: 800px;
+  margin: 50px auto;
+  background: linear-gradient(to top, #a2d4a8, #e5eec1) center / cover no-repeat;
+  color: #547a82;
+  border-radius: 20px;
+  box-shadow: 0 1px 7px rgba(0, 0, 0, 0.25);
+  padding: 10px;
+}
+
+.cost {
+  width: 796px;
+  border: 2px solid #547a82;
+  border-radius: 17px;
+}

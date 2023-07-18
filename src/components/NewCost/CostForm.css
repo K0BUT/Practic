@@ -1,0 +1,34 @@
+.new-cost__controls {
+  padding: 25px;
+  text-align: center;
+}
+
+.new-cost__control label {
+  font-weight: bold;
+  margin-bottom: 15px;
+  display: block;
+}
+
+.new-cost__control input {
+  background-color: #e5eec1;
+  width: 300px;
+  height: 35px;
+  border: 0;
+  border-bottom: 2px solid #a2d4a8;
+  outline: none;
+  text-align: center;
+  font-size: 15px;
+  transition: all 0.3s;
+  margin-bottom: 15px;
+}
+
+.new-cost__actions {
+  text-align: center;
+}
+
+
+.new-cost__control input:hover,
+input:focus {
+  border: 0;
+  border-bottom: 2px solid #547a82;
+}

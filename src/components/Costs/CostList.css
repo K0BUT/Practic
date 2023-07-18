@@ -1,0 +1,10 @@
+.cost-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cost-list__fallback {
+    color: #547a82;
+    text-align: center;
+  }
+  
